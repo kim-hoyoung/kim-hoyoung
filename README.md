@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Hoyoung Kim</h1>  
-<h3 align="center">신입 개발자 김호영의 성장 스토리</h3>
+<h3 align="center">The Growth Story of Hoyoung Kim, a Junior Developer</h3>
 
 ### Contact
 
