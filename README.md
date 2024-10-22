@@ -39,5 +39,8 @@
   <a href="https://instagram.com/dar._.ho" target="blank">  
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dar._.ho" height="30" width="40"/>  
   </a>  
+   <a href="https://hushed-course-7d9.notion.site/7fdcded7c29b4c6d85f59371ec5b0a08?pvs=4" target="blank">  
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/notion.svg" alt="Notion Link" height="30" width="40"/>  
+  </a>
 </p>
 
