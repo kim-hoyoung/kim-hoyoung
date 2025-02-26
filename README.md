@@ -6,7 +6,7 @@
 
 ✉️: **happy3sk@naver.com**  
 📚 **Tistory |** [StudyPorsche](https://studyporsche.tistory.com/) 🚀  *  
-📞: **010 - 9330 - 0253** 
+<!-- 📞: **010 - 9330 - 0253** --> 
 
 
 ---
