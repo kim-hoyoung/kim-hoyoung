@@ -1,33 +1,32 @@
 <h1>Hi 👋🏻, I'm Hoyoung Kim</h1>  
-<h3>The Growth Story of Hoyoung Kim, a Junior Developer</h3>
-<br>
-
-### Contact
-
-✉️: **happy3sk@naver.com**  
-📚 **Tistory |** [StudyPorsche](https://studyporsche.tistory.com/) 🚀  *  
-<!-- 📞: **010 - 9330 - 0253** --> 
-
+<h3>The Growth Story of Hoyoung Kim, a Developer</h3>
 
 ---
 
-<p>  
-   👋🏻 안녕하세요, 김호영입니다. 😊  
-</p>
+### 📬 Contact
 
-🖥 현재 공부중인 프론트 개발자입니다.  
+- ✉️ Email: **happy3sk@naver.com**  
+- 📚 Blog: [StudyPorsche 티스토리](https://studyporsche.tistory.com/) 🚀  
+<!-- - 📞 Phone: **010 - 9330 - 0253** -->
 
-저는 **사용자 경험을 개선하고, 유지보수가 용이한** 코드를 작성하는 웹 개발자가 되고 싶습니다.  
+---
 
-또한, 변화하는 IT 환경에 빠르게 적응하며, 피드백과 소통에 유연한 개발자로 성장하고자 합니다.
+### 👋🏻 About Me
 
-<br>
+안녕하세요, 김호영입니다. 😊  
+현재 프론트엔드 개발을 공부하고 있으며,  
+
+**사용자 경험을 개선하고 유지보수가 쉬운 코드**를 지향합니다.  
+변화하는 IT 환경 속에서 빠르게 적응하고,  
+**소통과 피드백에 유연한 개발자**로 성장하고자 합니다.
+
+---
 
 ## 📝 **Used Tool & Skill**  
 
 
 ### **Front-End & Back-End**  
-`react` `Vue3` `JavaScript` `TypeScript` `Spring Boot` `Java`
+`React` `Vue3` `JavaScript` `TypeScript` `Spring Boot` `Java`
 
 ---
 
@@ -36,7 +35,8 @@
 
 ---
 
-### <h3 align="left">Here are my social media links: 📫</h3>  
+### 🌐 Socials
+
 <p align="left">  
   <a href="https://instagram.com/dar._.ho" target="blank">  
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dar._.ho" height="30" width="40"/>  
