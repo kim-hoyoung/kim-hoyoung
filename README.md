@@ -26,7 +26,7 @@
 
 
 ### **Front-End & Back-End**  
-`React` `Vue3` `JavaScript` `TypeScript` `Spring Boot` `Java`
+`React` `Vue3` `JavaScript` `TypeScript` `Next.js` `Spring Boot` `Java`
 
 ---
 
