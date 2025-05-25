@@ -31,7 +31,7 @@
 ---
 
 ### **Communication & Work Tools**  
-`Notion` `Slack` `GitHub` `Postman` `Jira`
+`Notion` `Figma` `Slack` `GitHub` `Postman` `Jira`
 
 ---
 
