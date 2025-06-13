@@ -1,7 +1,5 @@
-<h1>Hi 👋🏻, I'm Hoyoung Kim</h1>  
-<h3>The Growth Story of Hoyoung Kim, a Developer</h3>
+<h1>안녕하세요 김호영입니다.</h1>
 
----
 
 ### 📬 Contact
 
