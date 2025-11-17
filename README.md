@@ -1,11 +1,10 @@
-<h1>안녕하세요 김호영입니다.</h1>
+<h1>안녕하세요 김호영입니다. 😊</h1>
 
 ### 👋🏻 About Me
 
-안녕하세요, 김호영입니다. 😊  
 현재 프론트엔드 개발을 공부하고 있으며,  
 **사용자 경험을 개선하고 유지보수가 쉬운 코드**를 지향하며,   
-API 요청을 최소화해 비용 효율을 높이는 데 집중합니다.    
+API 요청을 최소화해 비용 효율을 높이는 것을 목표로 하고 있습니다.    
 
 변화하는 IT 환경 속에서 빠르게 적응하고,      
 **원활한 소통과 피드백을 바탕으로 함께 성장하는 개발자**를 목표로 합니다.
@@ -44,7 +43,6 @@ API 요청을 최소화해 비용 효율을 높이는 데 집중합니다.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
 
 
 
